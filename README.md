@@ -1,0 +1,2 @@
+# gitExample
+git is useful
